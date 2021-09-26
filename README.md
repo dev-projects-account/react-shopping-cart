@@ -1,3 +1,5 @@
+This was a bootcamp project to build a shopping cart in React.
+
 # Redux Workshop - Shopping Cart
 
 Today we'll build a shopping cart for a sticker store:
